@@ -42,59 +42,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Veeva Vault RIM](https://www.veeva.com/)**  
-
-  Market-leading cloud-native Regulatory Information Management suite used by the majority of top biopharma companies for end-to-end regulatory processes, submissions, and labeling.
-
-
-
-- **[ArisGlobal LifeSphere RIM (incl. former Amplexor)](https://www.arisglobal.com/)**  
-
-  Comprehensive life-sciences regulatory platform covering RIM, content management, publishing, and integrated safety/regulatory workflows.
-
-
-
-- **[MasterControl](https://www.mastercontrol.com/)**  
-
-  Quality and regulatory excellence platform with strong document control, change management, and regulatory process support for life sciences.
-
-
-
-- **[Ennov Regulatory Suite](https://www.ennov.com/)**  
-
-  Modular European-origin regulatory affairs platform with robust support for EMA processes, variations, and submission management.
-
-
-
-- **[Rimsys](https://www.rimsys.io/)**  
-
-  Modern RIM platform focused on medical devices and streamlined regulatory information management.
-
-
-
-- **[Lorenz docuBridge & EXTEDO](https://www.lorenz.cc/)**  
-
-  Specialist eCTD publishing and submission management tools widely used for dossier compilation and health-authority submissions.
-
-
-
-- **[Freyr SUBMIT PRO, Generis CARA, Phlexglobal, AmpleLogic](https://www.freyrsolutions.com/)**  
-
-  Additional RIM, publishing, and regulatory content management solutions serving sponsors and CROs.
-
-
-
-- **[Sparta TrackWise Digital, DXC RIM](https://www.spartasystems.com/)**  
-
-  Enterprise quality and regulatory platforms with RIM and compliance capabilities.
-
-
-
-- **[Other RIM & regulatory publishing platforms](https://www.veeva.com/)**  
-
-  Additional commercial tools covering IDMP, labeling, health-authority correspondence, and global registration tracking.
+| Platform | Key Capabilities & Focus | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Veeva Vault RIM](https://www.veeva.com/products/vault-rim/)** | Enterprise cloud-native RIM suite for end-to-end biopharma submissions, registrations, and labeling. | $500 – $2,400 per user/year (base module environments start at ~$25,000/year; typical starter contract ~$50,000/year) | 14-day guided proof-of-concept (POC) sandbox (limited to 5 user logins, test eCTD dossiers, and non-production gateway testing; SiteVault tier is free forever for up to 20 active clinical studies) |
+| **[ArisGlobal LifeSphere RIM](https://www.arisglobal.com/lifesphere-regulatory/)** | Comprehensive regulatory platform covering RIM, dossier management, publishing, and safety integration (including former Amplexor suite). | $2,200 per user/year (or ~$35,000/year base deployment package) | 14-day guided evaluation sandbox (limited to 3 administrative users, up to 2 test submission dossiers, and mock health-authority tracking) |
+| **[MasterControl Regulatory](https://www.mastercontrol.com/regulatory/)** | Regulatory excellence and document control platform supporting change management, dossier compilation, and compliance workflows. | $1,095/month (~$13,140 to $25,000/year base deployment for named users) | 14-day vendor-provisioned trial environment (limited to 5 named users, 100 managed documents, and pre-configured GxP workflow templates) |
+| **[Ennov Regulatory Suite](https://www.ennov.com/regulatory/)** | Modular European-origin regulatory affairs platform with robust support for EMA variations, eCTD authoring, and submission tracking. | €5,000/year (~$5,450 USD/year) for base module; ~$150 – $220 per user/month for standard seats | 30-day guided pilot sandbox (limited to 3 test users, 1 active product dossier, and test EMA/FDA submission package generation) |
+| **[Rimsys RIM](https://www.rimsys.io/)** | Cloud-based RIM platform engineered specifically for medical devices, IVDs, and global market authorization tracking. | $1,250/month ($15,000/year billed annually) for Core tier (covers up to 50 active product SKUs with unlimited users) | 14-day interactive trial sandbox (limited to 1 product line and up to 10 device SKUs; includes free forever access to Rimsys Intel public regulatory database) |
+| **[LORENZ docuBridge](https://www.lorenz.cc/eSolutions/docuBridge-one/)** | Specialist eCTD submission management and publishing software used for compiling and lifecycle-managing dossiers for global health authorities. | $2,950 net base license for docuBridge ONE (includes 1 single-user workstation license, 1 submission sequence token, 1 training token, and 1 support token; additional sequences at ~$1,200/token) | 30-day evaluation license (limited to 1 local workstation installation, 1 pre-set test region eCTD sequence, and watermarked sequence export) |
+| **[EXTEDO eRA / EXTEDOpulse](https://www.extedo.com/)** | Life sciences regulatory affairs suite providing eCTD publishing (eCTDmanager), registration management, and EURS validation. | €4,500/year (~$4,900 USD/year) for base submission/validation modules; eCTDmanager cloud seats from ~$250/user/month | 14-day cloud evaluation sandbox (limited to 2 users, sample regional DTD validation, and test dossier compilation without live gateway transmission) |
+| **[Freyr SUBMIT PRO](https://www.freyrdigital.com/submit-pro)** | Cloud-native eCTD software enabling dossier authoring, validation, life cycle management, and submission publishing across global HAs. | $4,125 per user/year for SUBMIT PRO GEO (or $1,925 for 3-month lease; $1,450 per additional Health Authority) | 48-hour live interactive trial sandbox (limited to 1 user seat, 2 selected Health Authorities, and 1 test eCTD submission sequence) |
+| **[Generis CARA](https://www.generiscorp.com/)** | Unified data and content management platform for regulatory submissions, labeling, quality, and clinical processes. | £65 (~$82 USD) per user/month for Core Plan (£90/user/month for Professional, £115/user/month for Enterprise) | 14-day guided proof-of-concept environment (limited to 5 user logins, 500 test documents/metadata objects, and pre-built life-sciences workflows) |
+| **[Phlexglobal PhlexRIM](https://www.phlexglobal.com/)** | Integrated regulatory operations and dossier management suite combining automated publishing with regulatory intelligence. | $1,500/month (~$18,000/year) for starter sponsor submission package | 14-day vendor-assisted evaluation sandbox (limited to 3 user accounts, 1 pilot submission project, and mock regulatory exchange) |
+| **[AmpleLogic RIMS](https://www.amplelogic.com/regulatory-information-management-system-rims/)** | Low-code web-based RIMS for tracking product registrations, variations, ANDA/DMF filings, and health authority commitments across 120+ countries. | $800/month ($9,600/year) for base tier supporting up to 10 users | 14-day guided sandbox access (limited to 3 test user profiles, 5 sample product registrations, and standard compliance dashboards) |
+| **[Sparta TrackWise Digital](https://www.spartasystems.com/trackwise-digital/)** | Enterprise quality and regulatory tracking platform handling change control, regulatory impact analysis, and compliance workflows. | $500/month ($6,000/year) per module under QuickTrack; full enterprise RIM/QMS packages starting ~$30,000/year | 14-day guided proof-of-concept sandbox (limited to 5 users, 2 configured regulatory workflows, and mock audit trails) |
+| **[DXC RIM / FirstDoc](https://dxc.com/us/en/industries/life-sciences)** | Enterprise document management and eCTD submission automation software designed for biopharma compliance. | $2,584.40 per user license (+ $516.88 initial support fee) under GSA Schedule (Contract 47QTCA26D001Q); ~$35,000/year base tier | 30-day proof-of-concept pilot environment (limited to 5 named users, 1 sample dossier hierarchy, and test document routing) |
+| **[Kivo GO RIM](https://kivo.io/)** | Unified, intuitive RIM and submission management platform built for emerging pharma and biotech teams with integrated eTMF and QMS. | $950/month ($11,400/year billed annually) for team tier (covers 5 users with full RIM & DMS modules included) | 14-day free trial (limited to 3 team members, 25 documents, and 1 test eCTD dossier structure) |
 
 
 
