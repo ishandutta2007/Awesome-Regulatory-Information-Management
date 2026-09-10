@@ -1,50 +1,63 @@
-# Awesome-Regulatory-Information-Management
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Regulatory Information Management Banner" width="100%">
+</p>
 
-## Top Regulatory Information Management (RIM) Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Regulatory-Information-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Regulatory-Information-Management?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Regulatory-Information-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+# 🏛️ Awesome Regulatory Information Management (RIM)
 
+> 🔬 **A comprehensive, SEO-optimized, and curated directory of enterprise SaaS platforms, eCTD publishing software, and open-source tools for Regulatory Information Management (RIM) in Life Sciences, Pharmaceuticals, Biotechnology, and Medical Devices.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Covering global submission planning, eCTD dossier assembly, health authority correspondence (FDA, EMA, PMDA, NMPA), labeling management, IDMP / SPOR data standards, and GxP / 21 CFR Part 11 compliance.*
 
-*Focused on Life Sciences Regulatory Affairs, Submission Management, Dossier Tracking, Health Authority Correspondence, Labeling & Compliance*  
+**📅 Last updated: September 2026**
 
-**Last updated: September 2026**
+---
 
+## 📑 Table of Contents
 
+- [🔍 Overview](#-overview)
+- [📊 Market Overview & Dynamics](#-market-overview--dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Additional Open-Source Capabilities](#️-additional-open-source-capabilities)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Regulatory Information Management (RIM)**. These systems help pharmaceutical, biotech, and medical-device companies manage the full regulatory lifecycle—from planning and authoring through submissions, registrations, variations, labeling, and post-approval commitments.
+---
 
+## 🔍 Overview
 
+**Regulatory Information Management (RIM)** systems serve as the central source of truth for life-sciences organizations navigating complex global regulatory pathways. These platforms manage the end-to-end regulatory lifecycle:
 
-**Examples** include Veeva Vault RIM, MasterControl, Ennov RIM, Amplexor / ArisGlobal LifeSphere RIM, Sparta TrackWise Digital, Rimsys, Phlexglobal, DXC RIM, Freyr SUBMIT PRO, Generis CARA, AmpleLogic RIMS, Lorenz docuBridge, and EXTEDO eRA (the category leaders).
+- 📋 **Submission Planning & Tracking**: Managing electronic Common Technical Document (eCTD 3.2.2 / v4.0), NeeS, and non-eCTD submission milestones.
+- 🏛️ **Health Authority Interactions**: Logging requests for information (RFIs), commitments, inspections, and correspondence with the FDA, EMA, PMDA, and other agencies.
+- 💊 **Product Registrations & Variations**: Real-time tracking of marketing authorizations, variations, line extensions, and country-level license renewals across 150+ jurisdictions.
+- 🏷️ **Labeling & Artwork**: Version-controlled structured product labeling (SPL), core data sheets (CCDS), and local product inserts.
+- 🛡️ **Regulatory Compliance & GxP**: Meeting strict FDA 21 CFR Part 11, EU Annex 11, and ISO 13485 audit trail and electronic signature requirements.
 
+---
 
+## 📊 Market Overview & Dynamics
 
-**Open-source emphasis**: Validated, enterprise-grade RIM platforms used in regulated life-sciences environments are almost exclusively commercial. Open-source activity is limited but includes **OpenRIMS** (for National Medicines Regulatory Authorities), regulatory templates, data repositories, and supporting tools. This section lists every significant relevant project found.
+> 📈 **Sector Size & Growth**: The global Regulatory Information Management (RIM) market is estimated at **$2.5 to $2.8 Billion** (projected to reach **$5.5+ Billion by 2033–2035** at a **9.5%–11% CAGR**).
+> 
+> 🎯 **Market Structure**: The sector is **moderately to highly concentrated** at the top-tier biopharma enterprise level (dominated by pure-play SaaS market leader Veeva Systems alongside conglomerates like Honeywell Sparta and ArisGlobal), while exhibiting **moderate fragmentation** across mid-market life sciences, MedTech specialists (e.g., Rimsys, Kivo), and regional eCTD publishing solutions.
 
+---
 
+## ☁️ SaaS & Hosted Platforms
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Below is the verified breakdown of leading commercial RIM suites, ranked in descending order by parent company / corporate scale:
 
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-> 📊 **Market Overview**: The global Regulatory Information Management (RIM) market is valued at **~$2.5 to $2.8 Billion** (projected to reach **$5.5+ Billion by 2033–2035** at a **9.5%–11% CAGR**). The sector is **moderately to highly concentrated** at the top-tier biopharma enterprise level (dominated by pure-play market leader Veeva Systems alongside conglomerates like Honeywell Sparta and ArisGlobal), while exhibiting **moderate fragmentation** across mid-market life sciences, MedTech specialists (e.g., Rimsys, Kivo), and niche eCTD publishing solutions.
-
-| Platform | Company Scale (Revenue / Valuation) | Key Capabilities & Focus | Starting Pricing | Free Tier / Free Trial Limits |
+| 🏢 Platform | 💰 Company Scale (Revenue / Valuation) | 🎯 Key Capabilities & Focus | 🏷️ Starting Pricing | ⏱️ Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Sparta TrackWise Digital](https://www.spartasystems.com/trackwise-digital/)** | ~$38.5B Rev / ~$135B Mkt Cap (Honeywell parent; Sparta acquired for $1.3B) | Enterprise quality and regulatory tracking platform handling change control, regulatory impact analysis, and compliance workflows. | $500/month ($6,000/year) per module under QuickTrack; full enterprise RIM/QMS packages starting ~$30,000/year | 14-day guided proof-of-concept sandbox (limited to 5 users, 2 configured regulatory workflows, and mock audit trails) |
 | **[DXC RIM / FirstDoc](https://dxc.com/us/en/industries/life-sciences)** | ~$13.7B Annual Rev / ~$4.5B Mkt Cap (NYSE: DXC) | Enterprise document management and eCTD submission automation software designed for biopharma compliance. | $2,584.40 per user license (+ $516.88 initial support fee) under GSA Schedule (Contract 47QTCA26D001Q); ~$35,000/year base tier | 30-day proof-of-concept pilot environment (limited to 5 named users, 1 sample dossier hierarchy, and test document routing) |
@@ -61,109 +74,85 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[AmpleLogic RIMS](https://www.amplelogic.com/regulatory-information-management-system-rims/)** | ~$10M Annual Revenue (Pharma low-code specialist) | Low-code web-based RIMS for tracking product registrations, variations, ANDA/DMF filings, and health authority commitments across 120+ countries. | $800/month ($9,600/year) for base tier supporting up to 10 users | 14-day guided sandbox access (limited to 3 test user profiles, 5 sample product registrations, and standard compliance dashboards) |
 | **[Kivo GO RIM](https://kivo.io/)** | ~$7M ARR / ~$35M Valuation (Emerging biotech RIM) | Unified, intuitive RIM and submission management platform built for emerging pharma and biotech teams with integrated eTMF and QMS. | $950/month ($11,400/year billed annually) for team tier (covers 5 users with full RIM & DMS modules included) | 14-day free trial (limited to 3 team members, 25 documents, and 1 test eCTD dossier structure) |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Open-source regulatory initiatives provide transparent standards, evaluation packages, NMRA workflows, and submission validators. Ranked in descending order by GitHub stars:
 
 - **[FDA / openfda](https://github.com/FDA/openfda)** [![Stars](https://img.shields.io/github/stars/FDA/openfda?style=social&color=white)](https://github.com/FDA/openfda/stargazers)  
-  Official U.S. Food and Drug Administration open-source data APIs, ingestion pipelines, and schema definitions for querying drug, medical device, and food regulatory approvals, adverse event reports, recall notices, and structured product labeling.
+  🏛️ Official U.S. Food and Drug Administration open-source data APIs, ingestion pipelines, and schema definitions for querying drug, medical device, and food regulatory approvals, adverse event reports, recall notices, and structured product labeling.
 
 - **[pharmaverse / admiral](https://github.com/pharmaverse/admiral)** [![Stars](https://img.shields.io/github/stars/pharmaverse/admiral?style=social&color=white)](https://github.com/pharmaverse/admiral/stargazers)  
-  Open-source modular toolbox for Clinical Data Interchange Standards Consortium (CDISC) Analysis Data Model (ADaM) datasets required for FDA, EMA, and PMDA eCTD regulatory submissions and dossier review packages.
+  📊 Open-source modular toolbox for Clinical Data Interchange Standards Consortium (CDISC) Analysis Data Model (ADaM) datasets required for FDA, EMA, and PMDA eCTD regulatory submissions and dossier review packages.
 
 - **[insightsengineering / teal](https://github.com/insightsengineering/teal)** [![Stars](https://img.shields.io/github/stars/insightsengineering/teal?style=social&color=white)](https://github.com/insightsengineering/teal/stargazers)  
-  Modular, interactive Shiny-based dashboard framework created by biopharma leaders for visual exploration, safety analysis, and clinical trial data monitoring during regulatory submissions and dossier evaluations.
+  📈 Modular, interactive Shiny-based dashboard framework created by biopharma leaders for visual exploration, safety analysis, and clinical trial data monitoring during regulatory submissions and dossier evaluations.
 
 - **[openregulatory / templates](https://github.com/openregulatory/templates)** [![Stars](https://img.shields.io/github/stars/openregulatory/templates?style=social&color=white)](https://github.com/openregulatory/templates/stargazers)  
-  Open templates and resources for ISO 13485, IEC 62304, ISO 14971, IEC 62366, EU MDR/IVDR, and FDA 510(k) medical-device and Software as a Medical Device (SaMD) compliance documentation.
+  📝 Open templates and resources for ISO 13485, IEC 62304, ISO 14971, IEC 62366, EU MDR/IVDR, and FDA 510(k) medical-device and Software as a Medical Device (SaMD) compliance documentation.
 
 - **[pharmaR / riskmetric](https://github.com/pharmaR/riskmetric)** [![Stars](https://img.shields.io/github/stars/pharmaR/riskmetric?style=social&color=white)](https://github.com/pharmaR/riskmetric/stargazers)  
-  R package risk assessment framework developed by the R Validation Hub to evaluate R package quality, reproducibility, and suitability for use in validated GxP environments and biopharma regulatory submissions.
+  🧪 R package risk assessment framework developed by the R Validation Hub to evaluate R package quality, reproducibility, and suitability for use in validated GxP environments and biopharma regulatory submissions.
 
 - **[phuse-org / phuse-scripts](https://github.com/phuse-org/phuse-scripts)** [![Stars](https://img.shields.io/github/stars/phuse-org/phuse-scripts?style=social&color=white)](https://github.com/phuse-org/phuse-scripts/stargazers)  
-  Collaborative Pharmaceutical Users Software Exchange (PHUSE) code repository providing standard regulatory analyses, clinical summary tables, and figures accepted across global health authorities.
+  📚 Collaborative Pharmaceutical Users Software Exchange (PHUSE) code repository providing standard regulatory analyses, clinical summary tables, and figures accepted across global health authorities.
 
 - **[MeyerThorsten / QAtrial](https://github.com/MeyerThorsten/QAtrial)** [![Stars](https://img.shields.io/github/stars/MeyerThorsten/QAtrial?style=social&color=white)](https://github.com/MeyerThorsten/QAtrial/stargazers)  
-  Open-source AI-powered quality and regulatory compliance management platform for regulated life sciences, featuring eTMF, CAPA, design controls, deviations, and 21 CFR Part 11 audit trails.
+  🤖 Open-source AI-powered quality and regulatory compliance management platform for regulated life sciences, featuring eTMF, CAPA, design controls, deviations, and 21 CFR Part 11 audit trails.
 
 - **[cdisc-org / conformance-rules-editor](https://github.com/cdisc-org/conformance-rules-editor)** [![Stars](https://img.shields.io/github/stars/cdisc-org/conformance-rules-editor?style=social&color=white)](https://github.com/cdisc-org/conformance-rules-editor/stargazers)  
-  CDISC open-source tool for authoring, editing, and managing machine-readable regulatory data conformance rules for Study Data Tabulation Model (SDTM) submission packages.
+  📐 CDISC open-source tool for authoring, editing, and managing machine-readable regulatory data conformance rules for Study Data Tabulation Model (SDTM) submission packages.
 
 - **[regulatorystudies / regulatory_data_repository](https://github.com/regulatorystudies/regulatory_data_repository)** [![Stars](https://img.shields.io/github/stars/regulatorystudies/regulatory_data_repository?style=social&color=white)](https://github.com/regulatorystudies/regulatory_data_repository/stargazers)  
-  Tools and code for obtaining, cleaning, and analyzing publicly available regulatory data, rulemaking dockets, and federal Unified Agenda submissions.
+  🌐 Tools and code for obtaining, cleaning, and analyzing publicly available regulatory data, rulemaking dockets, and federal Unified Agenda submissions.
 
 - **[MSH / OpenRIMS](https://github.com/MSH/OpenRIMS)** [![Stars](https://img.shields.io/github/stars/MSH/OpenRIMS?style=social&color=white)](https://github.com/MSH/OpenRIMS/stargazers)  
-  Free and open-source Regulatory Information Management System designed by Management Sciences for Health to assist National Medicines Regulatory Authorities (NMRAs). Supports country-specific business processes, dossier evaluation tracking, and registration certificates without re-programming.
+  🏥 Free and open-source Regulatory Information Management System designed by Management Sciences for Health to assist National Medicines Regulatory Authorities (NMRAs). Supports country-specific business processes, dossier evaluation tracking, and registration certificates without re-programming.
 
 - **[zavora-ai / mcp-regulatory](https://github.com/zavora-ai/mcp-regulatory)** [![Stars](https://img.shields.io/github/stars/zavora-ai/mcp-regulatory?style=social&color=white)](https://github.com/zavora-ai/mcp-regulatory/stargazers)  
-  Regulatory Model Context Protocol (MCP) server for automated compliance screening, submission filings, regulatory change tracking, and change control verification.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **eCTD validation & viewing tools**: Community or open utilities for checking submission packages.
-
-- **Labeling & structured content**: Experimental tools for structured product labeling and XML handling.
-
-- **Workflow engines**: Open BPM or workflow systems configured for regulatory process tracking.
-
-- **Audit-trail patterns**: Libraries and patterns for immutable logging suitable for regulated environments.
-
-- **FAIR data & RDM toolkits**: Resources (e.g., RDMkit) that support good data management practices relevant to regulatory submissions.
-
-- Spreadsheet + controlled-document hybrids still used by smaller organizations for limited regulatory tracking (with appropriate validation).
-
-
-
-**Frameworks for building custom systems**:  
-
-**OpenRIMS** is the most complete open-source RIM-oriented system, primarily targeted at National Medicines Regulatory Authorities rather than industry sponsors.  
-
-For industry use, open-source building blocks are limited to templates, data tools, and general document/workflow systems.  
-
-Any system used for regulated submissions must meet strict validation, audit-trail, and data-integrity requirements (21 CFR Part 11, Annex 11, etc.).  
-
-Commercial RIM platforms (Veeva Vault RIM, ArisGlobal LifeSphere, MasterControl, Ennov, Lorenz, EXTEDO, Rimsys, etc.) are purpose-built for these requirements and remain the standard for pharmaceutical and biotech regulatory operations. Open-source tools are best suited to regulatory authorities, education, research, and non-validated supporting activities.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Regulatory Information Management systems handle controlled documents and processes that directly affect patient safety and regulatory compliance. Any software used in regulated activities must be properly validated and operated under applicable GxP standards.
-
-- Open-source tools can support authorities, research, and documentation efforts but are not substitutes for validated commercial RIM platforms in industry submissions. Users and organizations remain fully responsible for compliance, validation, and regulatory outcomes.
-
-
+  ⚡ Regulatory Model Context Protocol (MCP) server for automated compliance screening, submission filings, regulatory change tracking, and change control verification.
 
 ---
 
+## 🛠️ Additional Open-Source Capabilities
 
+- 🔍 **eCTD Validation & Viewing**: Community utilities for verifying DTD/XSD conformance against FDA, EMA, and Health Canada specifications.
+- 📦 **Labeling & Structured Content**: XML and SPL parsing libraries for drug package insert lifecycle maintenance.
+- 🔄 **Regulatory Workflow Engines**: Configurable open BPM engines mapped to variations, renewals, and country clearances.
+- 🔐 **Audit Trails & Integrity Patterns**: Immutable event stores complying with 21 CFR Part 11 requirements.
+- 🌐 **FAIR Data & RDM Toolkits**: Open frameworks facilitating reproducible, audit-ready data exchange.
 
-**Made for regulatory affairs professionals, submission managers, quality teams, NMRAs, and life-sciences technologists.**  
+---
 
-Let's support open tools for regulatory authorities and research while recognizing the essential role of validated commercial RIM platforms in protecting patients and enabling global product approvals.
+## 🤝 How to Contribute
+
+Contributions are welcome and appreciated! To propose additions or updates:
+
+1. 🍴 Fork this repository.
+2. 🌿 Create a feature branch (`git checkout -b feature/new-rim-platform`).
+3. ✏️ Update `README.md` following the established tabular or badge formats.
+4. 🚀 Push changes and open a Pull Request with verifiable reference links.
+
+⭐ **If you find this directory valuable, star the repo to support open life-sciences resources!**
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Regulatory-Information-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Regulatory-Information-Management&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- 📌 *This repository is a community-curated educational index and does not constitute regulatory, legal, or validated software endorsement.*
+- 🛡️ *Regulatory Information Management software operates in heavily regulated GxP environments directly affecting patient safety and public health. All production software must undergo formal computerized system validation (CSV / CSA) under applicable predicate rules (US FDA 21 CFR Part 11, EU Annex 11, GAMP 5, ISO 13485).*
+- 💡 *Open-source tools assist research, academic institutions, and national authorities, but sponsors remain solely responsible for agency dossier acceptance and validation compliance.*
+
+---
+
+<p align="center">
+  <b>Curated with ❤️ for Regulatory Affairs (RA) Leaders, Submission Specialists, eCTD Publishers, and Life Sciences Technologists Worldwide.</b><br>
+  Explore more curated lists on <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome">Awesome-Awesome-Awesome</a>.
+</p>
