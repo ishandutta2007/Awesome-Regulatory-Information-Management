@@ -65,53 +65,38 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
+- **[FDA / openfda](https://github.com/FDA/openfda)** [![Stars](https://img.shields.io/github/stars/FDA/openfda?style=social&color=white)](https://github.com/FDA/openfda/stargazers)  
+  Official U.S. Food and Drug Administration open-source data APIs, ingestion pipelines, and schema definitions for querying drug, medical device, and food regulatory approvals, adverse event reports, recall notices, and structured product labeling.
 
+- **[pharmaverse / admiral](https://github.com/pharmaverse/admiral)** [![Stars](https://img.shields.io/github/stars/pharmaverse/admiral?style=social&color=white)](https://github.com/pharmaverse/admiral/stargazers)  
+  Open-source modular toolbox for Clinical Data Interchange Standards Consortium (CDISC) Analysis Data Model (ADaM) datasets required for FDA, EMA, and PMDA eCTD regulatory submissions and dossier review packages.
 
-- **[OpenRIMS](https://github.com/MSH/OpenRIMS)**  
+- **[insightsengineering / teal](https://github.com/insightsengineering/teal)** [![Stars](https://img.shields.io/github/stars/insightsengineering/teal?style=social&color=white)](https://github.com/insightsengineering/teal/stargazers)  
+  Modular, interactive Shiny-based dashboard framework created by biopharma leaders for visual exploration, safety analysis, and clinical trial data monitoring during regulatory submissions and dossier evaluations.
 
-  Free and open-source Regulatory Information Management System designed to assist National Medicines Regulatory Authorities (NMRAs). Supports configurable, country-specific business processes, workflows, document templates, and reporting without re-programming.
+- **[openregulatory / templates](https://github.com/openregulatory/templates)** [![Stars](https://img.shields.io/github/stars/openregulatory/templates?style=social&color=white)](https://github.com/openregulatory/templates/stargazers)  
+  Open templates and resources for ISO 13485, IEC 62304, ISO 14971, IEC 62366, EU MDR/IVDR, and FDA 510(k) medical-device and Software as a Medical Device (SaMD) compliance documentation.
 
+- **[pharmaR / riskmetric](https://github.com/pharmaR/riskmetric)** [![Stars](https://img.shields.io/github/stars/pharmaR/riskmetric?style=social&color=white)](https://github.com/pharmaR/riskmetric/stargazers)  
+  R package risk assessment framework developed by the R Validation Hub to evaluate R package quality, reproducibility, and suitability for use in validated GxP environments and biopharma regulatory submissions.
 
+- **[phuse-org / phuse-scripts](https://github.com/phuse-org/phuse-scripts)** [![Stars](https://img.shields.io/github/stars/phuse-org/phuse-scripts?style=social&color=white)](https://github.com/phuse-org/phuse-scripts/stargazers)  
+  Collaborative Pharmaceutical Users Software Exchange (PHUSE) code repository providing standard regulatory analyses, clinical summary tables, and figures accepted across global health authorities.
 
-- **[OpenRegulatory templates](https://github.com/openregulatory/templates)**  
+- **[MeyerThorsten / QAtrial](https://github.com/MeyerThorsten/QAtrial)** [![Stars](https://img.shields.io/github/stars/MeyerThorsten/QAtrial?style=social&color=white)](https://github.com/MeyerThorsten/QAtrial/stargazers)  
+  Open-source AI-powered quality and regulatory compliance management platform for regulated life sciences, featuring eTMF, CAPA, design controls, deviations, and 21 CFR Part 11 audit trails.
 
-  Open templates and resources for ISO 13485, IEC 62304, ISO 14971, IEC 62366 and related medical-device / software compliance documentation.
+- **[cdisc-org / conformance-rules-editor](https://github.com/cdisc-org/conformance-rules-editor)** [![Stars](https://img.shields.io/github/stars/cdisc-org/conformance-rules-editor?style=social&color=white)](https://github.com/cdisc-org/conformance-rules-editor/stargazers)  
+  CDISC open-source tool for authoring, editing, and managing machine-readable regulatory data conformance rules for Study Data Tabulation Model (SDTM) submission packages.
 
+- **[regulatorystudies / regulatory_data_repository](https://github.com/regulatorystudies/regulatory_data_repository)** [![Stars](https://img.shields.io/github/stars/regulatorystudies/regulatory_data_repository?style=social&color=white)](https://github.com/regulatorystudies/regulatory_data_repository/stargazers)  
+  Tools and code for obtaining, cleaning, and analyzing publicly available regulatory data, rulemaking dockets, and federal Unified Agenda submissions.
 
+- **[MSH / OpenRIMS](https://github.com/MSH/OpenRIMS)** [![Stars](https://img.shields.io/github/stars/MSH/OpenRIMS?style=social&color=white)](https://github.com/MSH/OpenRIMS/stargazers)  
+  Free and open-source Regulatory Information Management System designed by Management Sciences for Health to assist National Medicines Regulatory Authorities (NMRAs). Supports country-specific business processes, dossier evaluation tracking, and registration certificates without re-programming.
 
-- **[Regulatory data & research repositories](https://github.com/regulatorystudies/regulatory_data_repository)**  
-
-  Tools and code for obtaining and analyzing publicly available regulatory data (e.g., rulemaking and Unified Agenda information).
-
-
-
-- **[pharmaR / R Validation Hub related projects](https://github.com/pharmaR)**  
-
-  Community efforts around validated R packages and regulatory-grade statistical computing for life-sciences submissions.
-
-
-
-- **[EUDAMED & regulatory data tools](https://github.com/openregulatory)**  
-
-  Community resources, API references, and audits related to European medical-device regulatory databases.
-
-
-
-- **[Other regulatory compliance & documentation projects](https://github.com/search?q=regulatory+information+OR+RIM+OR+eCTD+OR+submission+management)**  
-
-  Academic and community prototypes for dossier tracking, submission helpers, and compliance documentation.
-
-
-
-- **[Document control & QMS open-source foundations](https://github.com/search?q=document+control+OR+QMS+open+source)**  
-
-  General open-source document management and quality-system tools that some organizations adapt for lighter regulatory needs.
-
-
-
-- **[IDMP / data-standard helpers](https://github.com/search?q=IDMP+OR+SPOR+OR+regulatory+data+standards)**  
-
-  Emerging open resources supporting identification of medicinal products and related regulatory data standards.
+- **[zavora-ai / mcp-regulatory](https://github.com/zavora-ai/mcp-regulatory)** [![Stars](https://img.shields.io/github/stars/zavora-ai/mcp-regulatory?style=social&color=white)](https://github.com/zavora-ai/mcp-regulatory/stargazers)  
+  Regulatory Model Context Protocol (MCP) server for automated compliance screening, submission filings, regulatory change tracking, and change control verification.
 
 
 
